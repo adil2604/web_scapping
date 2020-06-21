@@ -30,5 +30,12 @@ def geo_distances(dataframe_file, geocoded_dataframe_file,name=''):
     print('Done.')
 
 
-geo_distances('out/Wildberries_data.csv','out/Wildberries_geocoded_df.csv','Wildberries')
+def geocoded_data_to_geojson(file,name):
+    geocoded_df = pd.read_csv(file)
+    geocoded_gdf = gpd.GeoDataFrame(geocoded_df, geometry=gpd.points_from_xy(geocoded_df.displayLongitude,
+                                                                             geocoded_df.displayLatitude))
+    geocoded_gdf.to_file('out/{}_data_geocoded.geojson'.format(name), driver="GeoJSON")
 
+# geo_distances('out/Wildberries_data.csv','out/Wildberries_geocoded_df.csv','Wildberries')
+
+geocoded_data_to_geojson('out/Wildberriesgeocoded_df.csv','Wildberries')
