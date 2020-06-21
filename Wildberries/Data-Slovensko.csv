@@ -1,0 +1,3 @@
+,id,wayInfoImagesCount,address,workTime,wayInfo,imageLocationPath,extPhones,cityId,cityName,cityNameUfu,regionName,coordinates,sale,smId,fastestDatesByStore,deliveryPointType,bonus,legacyDstId,posId,isWb,country
+0,115773,3,Bratislava Tomasikova 7,Pondelok – Sobota 10.00-21.00,,Img115773,,1,Bratislava,bratislava,,"48.155727,17.162893",0,6,{},0,0,115773,0,True,Slovensko
+1,116530,3,"Bratislava, ul. Saratovska, d. 3424/6D",Pondelok – Sobota 10.00-21.00,,Img116530,,1,Bratislava,bratislava,,"48.18776,17.038076",0,6,{},0,0,116530,0,True,Slovensko

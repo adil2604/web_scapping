@@ -1,0 +1,31 @@
+,id,wayInfoImagesCount,address,workTime,wayInfo,imageLocationPath,extPhones,cityId,cityName,cityNameUfu,regionName,coordinates,sale,smId,fastestDatesByStore,deliveryPointType,bonus,legacyDstId,posId,isWb,country
+0,114013,3,"ul. Ostrobramska 126, 04-026 Warszawa",Poniedziałek – Sobota 10.00-21.00,,Img114013,,1,Warszawa,warszawa,,"52.236717,21.085085",0,6,{},0,0,114013,0,True,Poland
+1,116513,3,"ul. Kluczborska 17 lok. 1A, 31-271 Kraków",Poniedziałek – Sobota 10.00-21.00,,Img116513,,15,Kraków,krakw,,"50.08753,19.9321",0,6,{},0,0,116513,0,True,Poland
+2,114764,3,"ul. 1 Maja 1, 58-305 Wałbrzych",Poniedziałek – Sobota 10.00-21.00,,Img114764,,13,Wałbrzych,wabrzych,,"50.763706,16.275822",0,6,{},0,0,114764,0,True,Poland
+3,114818,3,"ul. Pocztowa 7, 59-220 Legnica",Poniedziałek – Sobota 10.00-21.00,,Img114818,,17,Legnica,legnica,,"51.21219,16.164606",0,6,{},0,0,114818,0,True,Poland
+4,115788,3,"ul. Jasna 29, 25-523 Kielce",Poniedziałek – Sobota 10.00-21.00,,Img115788,,20,Kielce,kielce,,"50.878223,20.625504",0,6,{},0,0,115788,0,True,Poland
+5,113979,3,"ul. Piłsudskiego 28/30 lok. 1, 50-033 Wrocław",Poniedziałek – Sobota 10.00-21.00,,Img113979,,14,Wrocław,wrocaw,,"51.1025,17.025787",0,6,{},0,0,113979,0,True,Poland
+6,116635,3,"os. Stefana Batorego 17 LU C, 60-687 Poznań",Poniedziałek – Sobota 10.00-21.00,,Img116635,,16,Poznań,pozna,,"52.457535,16.92104",0,6,{},0,0,116635,0,True,Poland
+7,116389,3,"ul. Gliwicka 15, 41-902 Bytom",Poniedziałek – Sobota 10.00-21.00,,Img116389,,18,Bytom,bytom,,"50.346798,18.922174",0,6,{},0,0,116389,0,True,Poland
+8,113999,3,"Gdansk, aleja Grunwaldzka, 132",Poniedziałek – Sobota 10.00-21.00,,Img113999,,3,Gdansk,gdansk,,"54.38053,18.60078",0,6,{},0,0,113999,0,True,Poland
+9,113939,3,"ul. Bukowińska 2 lok. U6, 02-703 Warszawa",Poniedziałek – Sobota 10.00-21.00,,Img113939,,1,Warszawa,warszawa,,"52.178822,21.028487",0,6,{},0,0,113939,0,True,Poland
+10,116308,3,"ul. 3 Maja 3 lok. 6, 41-300 Dąbrowa Górnicza",Poniedziałek – Sobota 10.00-21.00,,Img116308,,21,Dąbrowa Górnicza,dbrowa-grnicza,,"50.324883,19.18377",0,6,{},0,0,116308,0,True,Poland
+11,113987,3,"Szczecin, Krzywoustego, 19",Poniedziałek – Sobota 10.00-21.00,,Img113987,,5,Szczecin,szczecin,,"53.424488,14.556005",0,6,{},0,0,113987,0,True,Poland
+12,115237,3,"ul. Bytomska 11, 44-100 Gliwice",Poniedziałek – Sobota 10.00-21.00,,Img115237,,22,Gliwice,gliwice,,"50.293106,18.666965",0,6,{},0,0,115237,0,True,Poland
+13,114185,3,"ul. Sokołowska 60A, 08-110 Siedlce",Poniedziałek – Sobota 10.00-21.00,,Img114185,,9,Siedlce,siedlce,,"52.18373,22.268503",0,6,{},0,0,114185,0,True,Poland
+14,114025,3,"ul. Banderii 4 lok. U12, 01-164 Warszawa",Poniedziałek – Sobota 10.00-21.00,,Img114025,,1,Warszawa,warszawa,,"52.24497,20.962967",0,6,{},0,0,114025,0,True,Poland
+15,113989,3,"ul. Lipowa 31/33, 15-424 Białystok",Poniedziałek – Sobota 10.00-21.00,,Img113989,,2,Białystok,biaystok,,"53.133423,23.15194",0,6,{},0,0,113989,0,True,Poland
+16,114039,3,"ul. Jana III Sobieskiego 2, 42-200 Częstochowa",Poniedziałek – Sobota 10.00-21.00,,Img114039,,8,Czestochowa,czestochowa,,"50.80549,19.111992",0,6,{},0,0,114039,0,True,Poland
+17,115263,3,"ul. Adama Asnyka 11 lok. U3, 75-003 Koszalin",Poniedziałek – Sobota 10.00-21.00,,Img115263,,10,Koszalin,koszalin,,"54.19101,16.185186",0,6,{},0,0,115263,0,True,Poland
+18,117403,3,"al. Floriana Kobylińskiego 39, 09-400 Płock",Poniedziałek – Sobota 10.00-21.00,,Img117403,,23,Płock,pock,,"52.551422,19.67426",0,6,{},0,0,117403,0,True,Poland
+19,114016,3,Warszawa Cybernetyki 7D,Poniedziałek – Sobota 10.00-21.00,,Img114016,,1,Warszawa,warszawa,,"52.174114,20.996128",0,6,{},0,0,114016,0,True,Poland
+20,114005,3,"ul. Dźwigowa 3, 02-437 Warszawa",Poniedziałek – Sobota 10.00-21.00,,Img114005,,1,Warszawa,warszawa,,"52.21055,20.913013",0,6,{},0,0,114005,0,True,Poland
+21,116293,3,"Torun, ul. Poznanska, d. 74",Poniedziałek – Sobota 10.00-21.00,,Img116293,,19,Toruń,toru,,"52.993652,18.591103",0,6,{},0,0,116293,0,True,Poland
+22,114021,3,ul. Remiszewska 1 Warszawa,Poniedziałek – Sobota 10.00-21.00,,Img114021,,1,Warszawa,warszawa,,"52.26997,21.059816",0,6,{},0,0,114021,0,True,Poland
+23,114118,3,"Tarnow, Malczewskiego, 4",Poniedziałek – Sobota 10.00-21.00,,Img114118,,4,Tarnow,tarnow,,"50.00921,20.98546",0,6,{},0,0,114118,0,True,Poland
+24,116282,3,"ul. Powtańców 15 lok. 1, 41-500 Chorzów",Poniedziałek – Sobota 10.00-21.00,,Img116282,,11,Chorzów,chorzw,,"50.29467,18.95123",0,6,{},0,0,116282,0,True,Poland
+25,114022,3,"ul. Meander 2A, 02-791 Warszawa",Poniedziałek – Sobota 10.00-21.00,,Img114022,,1,Warszawa,warszawa,,"52.140175,21.055138",0,6,{},0,0,114022,0,True,Poland
+26,114026,3,"al. Racławickie 8, 20-037 Lublin",Poniedziałek – Sobota 10.00-21.00,,Img114026,,7,Lublin,lublin,,"51.247463,22.55017",0,6,{},0,0,114026,0,True,Poland
+27,114977,3,"ul. Władysława IV 51, 81-384 Gdynia",Poniedziałek – Sobota 10.00-21.00,,Img114977,,6,Gdynia,gdynia,,"54.510372,18.5377",0,6,{},0,0,114977,0,True,Poland
+28,116570,3,"ul. Stojałowskiego 50 lok. 2,  43-300 Bielsko-Biała",Poniedziałek – Sobota 10.00-21.00,,Img116570,,12,Bielsko-Biała,bielsko-biaa,,"49.82172,19.054296",0,6,{},0,0,116570,0,True,Poland
+29,117400,3,"ul. Wyzwolenia 6, 10-106 Olsztyn",Poniedziałek – Sobota 10.00-21.00,,Img117400,,24,Olsztyn,olsztyn,,"53.778835,20.477573",0,6,{},0,0,117400,0,True,Poland
