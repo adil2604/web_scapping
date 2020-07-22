@@ -1,4 +1,4 @@
-### Kazpost  
+### Parsers for get geodata from web-sites
 
 ---  
 
